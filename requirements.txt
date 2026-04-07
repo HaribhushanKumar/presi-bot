@@ -11,6 +11,6 @@ pypdf==4.2.0
 python-dotenv==1.0.1
 
 pinecone-client==3.2.2
-langchain-pinecone==0.1.2
+langchain-pinecone==0.0.1
 
 faiss-cpu==1.8.0
