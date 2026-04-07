@@ -4,13 +4,13 @@ langchain-community==0.3.26
 flask==3.0.3
 
 sentence-transformers==2.7.0
-transformers==4.41.2
+transformers==4.38.2
+tokenizers==0.15.2
 
 pypdf==4.2.0
 python-dotenv==1.0.1
 
 pinecone-client==3.2.2
-
 langchain-openai==0.1.7
 
 faiss-cpu
