@@ -13,5 +13,3 @@ pinecone-client==3.2.2
 langchain-pinecone==0.0.1
 
 langchain-openai==0.1.7
-
-faiss-cpu==1.8.0
